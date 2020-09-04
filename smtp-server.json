@@ -1,0 +1,9 @@
+{
+    "gmail": "smtp.gmail.com",
+    "outlook": "smtp.live.com",
+    "office365": "smtp.office365.com",
+    "yahoo": "smtp.mail.yahoo.com",
+    "mail": "smtp.mail.com",
+    "hotmail": "smtp.live.com",
+    "aol": "smtp.aol.com"
+}
